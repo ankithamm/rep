@@ -1,1 +1,3 @@
 # rep
+anki
+hari
