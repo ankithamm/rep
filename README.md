@@ -6,3 +6,4 @@ anki
 hari
 god
 good
+goo
