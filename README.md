@@ -5,3 +5,4 @@ mom
 anki
 hari
 god
+good
